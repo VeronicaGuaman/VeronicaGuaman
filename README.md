@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es Verónica Guamán
 #### Soy Desarrolladora de Software
 ![Soy Desarrolladora de Software]
-https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554
+![me](https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554)
 
 .Net Developer | Web developer
 Ing. en Sistemas | Apasionada por la tecnología. |
