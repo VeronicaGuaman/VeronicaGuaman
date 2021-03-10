@@ -1,13 +1,14 @@
 ### Hola 👋, Mi nombre es Verónica Guamán
 #### Soy Desarrolladora de Software
-![Soy Desarrolladora de Software](https://drive.google.com/file/d/1oFZXNfzNJOEQ5wVsBgcAiHWdsO9OzSNb/view?usp=sharing)
+![Soy Desarrolladora de Software]
+https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554
 
 .Net Developer | Web developer
-Ing. en Sistemas | Desarrolladora web | Apasionada por la tecnología. | 
+Ing. en Sistemas | Apasionada por la tecnología. |
 
-Habilidades: C# | .Net Framework | .Net Core | HTML | CSS
+Habilidades: C# | .Net Framework | .Net Core | HTML | CSS |
 
-- 🔭 Estoy trabajando en this page. 
+
 - 🌱 Estoy aprendiendo Javascript | Angular | API 
 
 
