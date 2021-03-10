@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Verónica Guamán</h1>
-<h3 align="center">Desarrolladora Web</h3>
+<h1 align="center">Hi 👋, I'm Verónica Guamán :information_desk_person:</h1>
+<h3 align="center">Desarrolladora Web :computer:</h3> 
 
-.Net Developer | Web developer
+![](https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554)
+:white_check_mark: .Net Developer | Web developer |
 Ing. en Sistemas | Apasionada por la tecnología. |
 
 
 - 🌱 Estoy aprendiendo **Javascript Angular API**
-- 📝 Regularmente escribo artículos en on [Dev.to](Dev.to)
+- 📝 Regularmente escribo artículos en [Dev.to](Dev.to)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
