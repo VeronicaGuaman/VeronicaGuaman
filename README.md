@@ -6,7 +6,7 @@
 Ing. en Sistemas | Apasionada por la tecnología. |
 
 
-- 🌱 Estoy aprendiendo **Javascript Angular API**
+- 🌱 Estoy aprendiendo **Javascript avanzado, Angular, API .Net Core**
 - 📝 Regularmente escribo artículos en [Dev.to](Dev.to)
 
 <h3 align="left">Connect with me:</h3>
