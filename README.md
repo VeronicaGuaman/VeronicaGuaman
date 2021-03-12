@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Verónica Guamán :information_desk_person:</h1>
+<h1 align="center">Hola 👋, soy Verónica Guamán :information_desk_person:</h1>
 <h3 align="center">Desarrolladora Web :computer:</h3> 
 
 ![](https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554)
