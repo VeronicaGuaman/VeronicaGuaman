@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Verónica Guamán :information_desk_person:</h1>
-<h3 align="center">Desarrolladora Web :computer:</h3> 
+<h3 align="center">Desarrolladora de Software :computer:</h3> 
 
 ![](https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554)
 :white_check_mark: .Net Developer | Web developer |
