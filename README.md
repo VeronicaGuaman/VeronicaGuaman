@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora de Software :computer:</h3> 
 
 ![](https://github.com/VeronicaGuaman/VeronicaGuaman/issues/1#issue-827952554)
-:white_check_mark: .Net Developer | C# | VB.NET | Backend | Frontend | Web developer |
+:white_check_mark: Microsoft MVP .Net Developer | C# | VB.NET | Backend | Frontend | Web developer |
 Ing. en Sistemas | Apasionada por la tecnología. |
 
 
